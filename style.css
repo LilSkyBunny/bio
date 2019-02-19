@@ -1,0 +1,32 @@
+body{
+	background-color: #90CE97;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+	text-align: center;
+}
+.jumbotron{
+	background-color: #90CE97;
+}
+h1, h3{
+	font-family: 'Gamja Flower', cursive;
+}
+h2{
+	font-family: 'Indie Flower', cursive;
+}
+h4{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+img{
+	align-content: center;
+}
+p {
+	font-family: 'Gamja Flower', cursive;
+	font-size: 18px;
+}
+.lyrics{
+	text-align: center;
+}
